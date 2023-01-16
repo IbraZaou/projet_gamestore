@@ -1,0 +1,17 @@
+
+
+NE PAS OUBLIER :
+
+- Changer les <titles>
+- Ajouter des div à l'intérieur des echo pour stylisé
+- Checkbox 'j'accepte les conditions blablabla' --> inscription.php
+- Changer tout les 'query failed' en 'Erreur'
+- Barre de recherche
+- Répondre au message envoyé
+- Ajouter des réduction
+- Ajouter social media
+- Fiche Produit
+- Google Review
+- drag and drop image
+- panier
+- Responsive
